@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "495170651576",
+    "project_id": "foodapp-dee84",
+    "storage_bucket": "foodapp-dee84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495170651576:android:9e2ad9656f7af165b47b4d",
+        "android_client_info": {
+          "package_name": "com.example.food_ordering"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcw7L0BA351jca_XQFxZ96tWx898za0SY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
